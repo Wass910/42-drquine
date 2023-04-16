@@ -8,7 +8,6 @@ int main() {
     std::string filename = FILENAME;
     std::string line;
     int i = 5;
-    FILE *file;
     int count = 0;
     while (i > 0)
     {
